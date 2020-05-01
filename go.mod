@@ -9,7 +9,7 @@ require (
 	github.com/docker/docker v1.4.2-0.20181208172742-edf5134ba77d // indirect
 	github.com/docker/libnetwork v0.8.0-dev.2.0.20181115152545-1f28166bb386 // indirect
 	github.com/fsouza/go-dockerclient v1.3.1
-	github.com/go-sql-driver/mysql v1.2.1-0.20160802113842-0b58b37b664c
+	github.com/go-sql-driver/mysql v1.5.0
 	github.com/google/uuid v1.1.0
 	github.com/imdario/mergo v0.0.0-20160517064435-50d4dbd4eb0e // indirect
 	github.com/maxbrunsfeld/counterfeiter/v6 v6.2.3
